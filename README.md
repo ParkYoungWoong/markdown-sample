@@ -67,7 +67,7 @@
 
 [logo]: http://www.gstatic.com/webp/gallery/2.jpg "To go kayaking."
 
-[![Vue](/images/vue.png)](https://kr.vuejs.org/)
+[![Vue](https://vuejs.org/images/logo.png)](https://kr.vuejs.org/)
 
 # 코드(Code) 강조
 
@@ -131,8 +131,6 @@ But let's throw in a tag.
 
 > 남의 말이나 글에서 직접 또는 간접으로 따온 문장.
 > _(네이버 국어 사전)_
-
-BREAK!
 
 > 인용문을 작성하세요!
 >> 중첩된 인용문(nested blockquote)을 만들 수 있습니다.
